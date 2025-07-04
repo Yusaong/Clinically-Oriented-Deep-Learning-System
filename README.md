@@ -4,8 +4,6 @@
 
 **OERR-Net** is an innovative, clinically oriented deep learning system developed for the objective, real-time linear assessment and 3D visualization of Orthodontic External Root Resorption (OERR) based on Cone-beam Computed Tomography (CBCT) data. By integrating both classic linear measurement techniques and advanced 3D morphological analysis, OERR-Net addresses the limitations of manual assessment and aims to enhance clinical decision-making in orthodontics.
 
-![network](img/network.jpg)
-
 ## Key Features
 
 - **Apex-aware Tooth Segmentation**: Employs the Swin-UNETR model to achieve highly accurate 3D tooth segmentation and reconstruction.
